@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tastekid</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="tastekid">Tastekid</string>
+    <string name="edit_message">Recommend</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_list">ListActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_item">Item</string>
+
+
+    <string name="value_transition">value_transition</string>
+</resources>

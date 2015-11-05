@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contentinvoer" type="id">ContentInvoer</item>
+    <item name="typeinvoer" type="id">TypeInvoer</item>
+    <item name="nameinvoer" type="id">NameInvoer</item>
+</resources>
